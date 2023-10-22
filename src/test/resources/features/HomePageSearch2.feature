@@ -4,7 +4,7 @@ Feature: Search property with location and some other attributes
   I need to check the parsing URL after searching
 
   @complete
-  Scenario:  Test baidu
+  Scenario:  Test baidu2
     Given  I open the "baidu" page "https://www.baidu.com"
 
   @debug

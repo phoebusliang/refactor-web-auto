@@ -1,0 +1,3 @@
+mvn clean test -Dcucumber.tags="@complete"
+
+mvn clean verify -P complete
